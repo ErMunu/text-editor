@@ -1,1 +1,1 @@
-# text-editor
+# Basic text-editor using Java
